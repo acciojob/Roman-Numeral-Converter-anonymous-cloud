@@ -21,8 +21,8 @@ function convertToRoman(num) {
   return roman;
 }
 
-// Example usage with alert
-alert(convertToRoman(798));  // This will show an alert with the Roman numeral for 36
+
+alert(convertToRoman(798));  
 
 // You can test your code by running the above function and printing it to console by pressing the run button at the top. To run it with input 36, uncomment the following line
  console.log(convertToRoman(798));
